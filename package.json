@@ -1,0 +1,30 @@
+{
+  "name": "mmgta_bot",
+  "version": "1.0.0",
+  "description": "MMGTA Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmgta/MMGTA_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "mmgta"
+  ],
+  "author": "|_ELISH_|",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmgta/MMGTA_bot/issues"
+  },
+  "homepage": "https://github.com/mmgta/MMGTA_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.40"
+  }
+}
